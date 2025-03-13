@@ -1,0 +1,6 @@
+Manager 1 Ion Popescu 5041116340441 2020 5 10
+Operator 2 Maria Ionescu 5041116340441 2021 3 15
+Operator 3 Dragne Antonio-Gabriel 5041116340441 2021 3 15
+Operator 4 Dragne Paul 5041116340442 2021 3 15
+Asistent 5 Ana Georgescu 5041116340441 2019 11 20
+Asistent 6 Dragne Paula 5041116340441 2021 3 15
